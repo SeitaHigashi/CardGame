@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuContactResult.cpp \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuContactResult.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/../SpuDoubleBuffer.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/../SpuFakeDma.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/../PlatformDefinitions.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/vectormath/vmInclude.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/vectormath/sse/vectormath_aos.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/vectormath/sse/vecidx_aos.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/vectormath/sse/floatInVec.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/vectormath/sse/boolInVec.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/vectormath/sse/vec_aos.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/vectormath/sse/quat_aos.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/vectormath/sse/mat_aos.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/../PpuAddressSpace.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btPersistentManifold.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btManifoldPoint.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btTransformUtil.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h

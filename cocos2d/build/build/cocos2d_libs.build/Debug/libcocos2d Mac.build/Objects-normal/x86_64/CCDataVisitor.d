@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/seita/Develop/cocos/card/cocos2d/cocos/base/CCDataVisitor.cpp \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/deprecated/CCBool.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/CCDataVisitor.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/deprecated/CCInteger.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/CCConsole.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/ccMacros.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/platform/CCStdC.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/ccRandom.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/platform/CCCommon.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/deprecated/CCFloat.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/deprecated/CCDouble.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/deprecated/CCString.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/deprecated/CCArray.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/ccCArray.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/ccUTF8.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/deprecated/CCDictionary.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/base/uthash.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../cocos/deprecated/CCSet.h

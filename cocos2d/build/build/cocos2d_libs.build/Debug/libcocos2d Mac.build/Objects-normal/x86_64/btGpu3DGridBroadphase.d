@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h

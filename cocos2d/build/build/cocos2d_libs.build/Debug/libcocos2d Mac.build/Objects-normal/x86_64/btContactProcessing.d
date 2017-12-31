@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletCollision/Gimpact/btContactProcessing.cpp \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletCollision/Gimpact/btContactProcessing.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletCollision/Gimpact/btTriangleShapeEx.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btTriangleShape.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexShape.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btBoxShape.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btPolyhedralConvexShape.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexInternalShape.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btAabbUtil2.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletCollision/Gimpact/btBoxCollision.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletCollision/Gimpact/btClipPolygon.h \
+  /Users/seita/Develop/cocos/card/cocos2d/build/../external/bullet/LinearMath/btGeometryUtil.h \
+  /Users/seita/Develop/cocos/card/cocos2d/external/bullet/BulletCollision/Gimpact/btGeometryOperations.h
